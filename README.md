@@ -8,14 +8,14 @@ done using a lab that I built within Azure’s cloud environment. This lab
 touches on the following aspects of security and Information Technology:
 
 SIEM & Alerts \
-Pen-testing
-Mitigation & Hardening
-Docker
-ELK Stack
-Webdav
-Metasploit
-Hydra
-RCE
+Pen-testing \
+Mitigation & Hardening \ 
+Docker \
+ELK Stack \
+Webdav \
+Metasploit \
+Hydra \ 
+RCE \
 Etc
 
 
