@@ -9,12 +9,12 @@ touches on the following aspects of security and Information Technology:
 
 SIEM & Alerts \
 Pen-testing \
-Mitigation & Hardening \ 
+Mitigation & Hardening \
 Docker \
 ELK Stack \
 Webdav \
 Metasploit \
-Hydra \ 
+Hydra \
 RCE \
 Etc
 
