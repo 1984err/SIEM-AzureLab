@@ -7,7 +7,7 @@ but have also implemented the entire ELK within my network.  This project was
 done using a lab that I built within Azure’s cloud environment. This lab 
 touches on the following aspects of security and Information Technology:
 
-SIEM & Alerts
+SIEM & Alerts \
 Pen-testing
 Mitigation & Hardening
 Docker
